@@ -190,7 +190,11 @@
    </image>
    <item rdf:about="/doi/abs/10.1002/anie.202001125?af=R">
       <title>Chalcogen Bond Mediated Enhancement of Cooperative Ion&#8208;Pair Recognition</title>
-      <dc:description>A series of heteroditopic receptors containing halogen bond and unprecedented chalcogen bond donors integrated into a 3,5&#8208;bis&#8208;triazole pyridine structure covalently linked to benzo&#8208;15&#8208;crown&#8208;5 ether motifs exhibit remarkable cooperative recognition of halide anions. Multi&#8208;nuclear  1  H,  13  C,  125  Te and  19  F NMR, ion pair binding investigations reveal sodium cation &#8211; benzo&#8208;crown ether binding dramatically enhances the recognition of bromide and iodide halide anions, with the chalcogen bonding heteroditopic receptor notably displaying the largest enhancement of halide binding strength of over two hundred&#8208;fold, in comparison to the halogen bonding and hydrogen bonding heteroditopic receptor analogues. DFT calculations suggest crown ether sodium cation complexation results in through bond mediated polarization of the sigma hole ChB and XB heteroditopic receptor donors as a significant contribution to the origin of the unique cooperativity exhibited by these systems.</dc:description>
+      <dc:description>
+         <![CDATA[
+            <a href="https://onlinelibrary.wiley.com/cms/asset/38239d1a-57a8-48a1-ad3d-96d25af42b44/anie202002118-toc-0001-m.png"><img style="float: left; margin-right: 5px;" height="80" src="https://onlinelibrary.wiley.com/cms/asset/38239d1a-57a8-48a1-ad3d-96d25af42b44/anie202002118-toc-0001-m.png" alt=""/></a>
+         ]]>
+         A series of heteroditopic receptors containing halogen bond and unprecedented chalcogen bond donors integrated into a 3,5&#8208;bis&#8208;triazole pyridine structure covalently linked to benzo&#8208;15&#8208;crown&#8208;5 ether motifs exhibit remarkable cooperative recognition of halide anions. Multi&#8208;nuclear  1  H,  13  C,  125  Te and  19  F NMR, ion pair binding investigations reveal sodium cation &#8211; benzo&#8208;crown ether binding dramatically enhances the recognition of bromide and iodide halide anions, with the chalcogen bonding heteroditopic receptor notably displaying the largest enhancement of halide binding strength of over two hundred&#8208;fold, in comparison to the halogen bonding and hydrogen bonding heteroditopic receptor analogues. DFT calculations suggest crown ether sodium cation complexation results in through bond mediated polarization of the sigma hole ChB and XB heteroditopic receptor donors as a significant contribution to the origin of the unique cooperativity exhibited by these systems.</dc:description>
       <dc:creator>
 Thanthapatra Bunchuay, 
 Andrew Docker, 
@@ -201,7 +205,11 @@ Paul  D. Beer
 </dc:creator>
       <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202001125?af=R</link>
       <content:encoded>&lt;p&gt;A series of heteroditopic receptors containing halogen bond and unprecedented chalcogen bond donors integrated into a 3,5&#8208;bis&#8208;triazole pyridine structure covalently linked to benzo&#8208;15&#8208;crown&#8208;5 ether motifs exhibit remarkable cooperative recognition of halide anions. Multi&#8208;nuclear  1  H,  13  C,  125  Te and  19  F NMR, ion pair binding investigations reveal sodium cation &#8211; benzo&#8208;crown ether binding dramatically enhances the recognition of bromide and iodide halide anions, with the chalcogen bonding heteroditopic receptor notably displaying the largest enhancement of halide binding strength of over two hundred&#8208;fold, in comparison to the halogen bonding and hydrogen bonding heteroditopic receptor analogues. DFT calculations suggest crown ether sodium cation complexation results in through bond mediated polarization of the sigma hole ChB and XB heteroditopic receptor donors as a significant contribution to the origin of the unique cooperativity exhibited by these systems.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <description>Angewandte Chemie International Edition, Accepted Article. 
+         <![CDATA[
+            <a href="https://onlinelibrary.wiley.com/cms/asset/38239d1a-57a8-48a1-ad3d-96d25af42b44/anie202002118-toc-0001-m.png"><img style="float: left; margin-right: 5px;" height="80" src="https://onlinelibrary.wiley.com/cms/asset/38239d1a-57a8-48a1-ad3d-96d25af42b44/anie202002118-toc-0001-m.png" alt=""/></a>
+         ]]>
+      </description>
       <dc:title>Chalcogen Bond Mediated Enhancement of Cooperative Ion&#8208;Pair Recognition</dc:title>
       <dc:identifier>doi:10.1002/anie.202001125</dc:identifier>
       <dc:source>Angewandte Chemie International Edition</dc:source>
